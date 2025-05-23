@@ -1,7 +1,7 @@
 # Digital Portfolio – Career Development
 
 > **Name:** Cameron Savage
-> **Module:** PRP370S – Project Presentation 3  
+> **Module:** PRP372S – Project Presentation 3  
 > **Institution:** Cape Peninsula University of Technology  
 
 ---
@@ -11,9 +11,8 @@
 <details>
 <summary> Evidence</summary>
 
-- Career planning document (PDF)  
-- Screenshot of career goal tracker  
-- Links to IT role research (e.g., system analyst, cybersecurity)  
+![Ultra - Opera 2025_05_23 17_46_17](https://github.com/user-attachments/assets/edaa309a-edfa-42af-bfbc-8697c32f67e2)
+
 
 </details>
 
@@ -31,9 +30,8 @@
 <details>
 <summary> Evidence</summary>
 
-- Skills matrix (Excel or Markdown table)  
-- GitHub repo showcasing coding projects  
-- Reflection document on interests alignment  
+![Ultra - Opera 2025_05_23 17_46_44](https://github.com/user-attachments/assets/02e6eba5-68ba-4d8f-b5b4-8faa0bc726c5)
+
 
 </details>
 
@@ -51,15 +49,14 @@
 <details>
 <summary> Evidence</summary>
 
-- Personality assessment report (PDF)  
-- Screenshot of Big Five/MBTI results  
-- Summary of trait alignment to career suitability  
+![Ultra - Opera 2025_05_23 17_47_04](https://github.com/user-attachments/assets/0dfc7129-98e4-4642-a5b5-2bafb3a44723)
+
 
 </details>
 
 **Reflection**
 
-- **Situation**: As part of the PRP370S module, I was tasked with completing a Personality Assessment to gain insights into my behavioural traits and how they influence my academic and professional life.  
+- **Situation**: As part of the PRP372S module, I was tasked with completing a Personality Assessment to gain insights into my behavioural traits and how they influence my academic and professional life.  
 - **Task**: My goal was to complete the assessment honestly and reflect on how the results could help me in my personal growth and workplace performance.  
 - **Action**: I engaged with the assessment questions carefully and critically. Once I received the results, I analysed the key personality traits highlighted and related them to real-life scenarios from my studies and group work. I documented how traits like conscientiousness and openness influence my ability to meet deadlines, collaborate with others, and adapt to new challenges.  
 - **Result**: I achieved full marks (100/100) for this task. More importantly, the process helped me understand my strengths and areas for improvement, which I articulated clearly in my digital portfolio. This insight will support better career decisions and improved self-management.
@@ -71,9 +68,8 @@
 <details>
 <summary> Evidence</summary>
 
-- CV (PDF or Markdown version)  
-- Peer review feedback form  
-- Screenshot of layout before/after edits  
+![Ultra - Opera 2025_05_23 17_47_21](https://github.com/user-attachments/assets/ffe503bd-de9c-4e62-b05a-b1d7492e218e)
+
 
 </details>
 
@@ -90,10 +86,8 @@
 
 <details>
 <summary> Evidence</summary>
-
-- GitHub link to CV  
-- Blackboard submission confirmation screenshot  
-- Final checklist for digital portfolio submission  
+  
+![Ultra - Opera 2025_05_23 17_53_52](https://github.com/user-attachments/assets/13a1d6e2-ef2d-4194-860d-577e0cfc4a07)
 
 </details>
 
@@ -102,6 +96,6 @@
 - **Situation**: After preparing my CV, I had to ensure its successful submission as part of my final digital portfolio.  
 - **Task**: The requirement was to submit the CV correctly via GitHub and Blackboard, ensuring accessibility, professional presentation, and completeness.  
 - **Action**: I verified the formatting, uploaded the CV to GitHub, and cross-checked the portfolio to ensure the CV was accessible. I also submitted the portfolio link via Blackboard well before the deadline and confirmed successful submission.  
-- **Result**: I earned a perfect score (100/100). This confirmed my ability to follow instructions precisely, manage time effectively, and ensure the integrity of digital submissions—skills essential for any professional environment.
+- **Result**: While the CV submission wasn’t formally marked, I am confident in its quality and presentation. This experience reinforced my ability to follow instructions precisely, manage time effectively, and ensure the integrity of digital submissions—skills essential for any professional environment.
 
 ---
