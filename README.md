@@ -26,10 +26,10 @@
 
 ---
 
-## 🔧 Skills and Interests
+##  Skills and Interests
 
 <details>
-<summary>📂 Evidence</summary>
+<summary> Evidence</summary>
 
 - Skills matrix (Excel or Markdown table)  
 - GitHub repo showcasing coding projects  
@@ -66,7 +66,7 @@
 
 ---
 
-## 📄 Create a CV
+##  Create a CV
 
 <details>
 <summary> Evidence</summary>
