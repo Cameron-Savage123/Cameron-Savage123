@@ -109,7 +109,7 @@
 
 **Reflection**
 
--**Situation**: I completed the Business Communication component to enhance my professional writing, presentation, and digital communication skills.
+-**Situation**: I completed the Business Communication exercise to enhance my professional writing, presentation, and digital communication skills.
 
 -**Task**: The objective was to learn about, answer questions and apply workplace communication principles such as tone, clarity, and structure when drafting emails, reports, and presentations.
 
