@@ -100,77 +100,77 @@
 
 ---
 
-Business Communication
+##  Business Communication
 <details> <summary>Evidence</summary>
 
 </details>
 
-Reflection
+**Reflection**
 
-Situation: I completed the Business Communication component to enhance my professional writing, presentation, and digital communication skills.
+-**Situation**: I completed the Business Communication component to enhance my professional writing, presentation, and digital communication skills.
 
-Task: The objective was to apply workplace communication principles such as tone, clarity, and structure when drafting emails, reports, and presentations.
+-**Task**: The objective was to apply workplace communication principles such as tone, clarity, and structure when drafting emails, reports, and presentations.
 
-Action: I practised drafting professional emails, preparing presentation slides, and delivering short formal communications suitable for a corporate setting. I used the STAR technique to reflect on how effective communication impacts team productivity.
+-**Action**: I practised drafting professional emails, preparing presentation slides, and delivering short formal communications suitable for a corporate setting. I used the STAR technique to reflect on how effective communication impacts team productivity.
 
-Result: I achieved 100/100. This exercise improved my ability to express ideas concisely and professionally, preparing me to communicate effectively in future IT project environments.
+-**Result**: I achieved 100/100. This exercise improved my ability to express ideas concisely and professionally, preparing me to communicate effectively in future IT project environments.
 
-Interview Skills
+##  Interview Skills
 <details> <summary>Evidence</summary>
 
 </details>
 
-Reflection
+**Reflection**
 
-Situation: In preparation for future job interviews, I participated in a mock interview training exercise to enhance my verbal and non-verbal communication.
+-**Situation**: In preparation for future job interviews, I participated in a mock interview training exercise to enhance my verbal and non-verbal communication.
 
-Task: The aim was to demonstrate interview readiness through confident presentation, structured responses, and professional behaviour.
+-**Task**: The aim was to demonstrate interview readiness through confident presentation, structured responses, and professional behaviour.
 
-Action: I prepared answers using the STAR technique, researched common IT interview questions, and practised body language and tone control. Feedback from peers and facilitators helped me refine my delivery.
+-**Action**: I prepared answers using the STAR technique, researched common IT interview questions, and practised body language and tone control. Feedback from peers and facilitators helped me refine my delivery.
 
-Result: I scored 100/100. This experience boosted my interview confidence and equipped me with structured techniques for answering competency-based questions clearly and effectively.
+-**Result**: I scored 100/100. This experience boosted my interview confidence and equipped me with structured techniques for answering competency-based questions clearly and effectively.
 
-Mock Interview Video
+##  Mock Interview Video
 <details> <summary>Evidence</summary>
 
 </details>
 
-Reflection
+**Reflection**
 
-Situation: As part of the work readiness module, I recorded a mock interview video simulating a real IT job interview.
+-**Situation**: As part of the work readiness module, I recorded a mock interview video simulating a real IT job interview.
 
-Task: The task required demonstrating professional communication, confidence, and preparedness in a recorded setting.
+-**Task**: The task required demonstrating professional communication, confidence, and preparedness in a recorded setting.
 
-Action: I used professional attire, structured my answers with the STAR method, and focused on maintaining good posture and tone throughout the recording.
+-**Action**: I used professional attire, structured my answers with the STAR method, and focused on maintaining good posture and tone throughout the recording.
 
-Result: Although this section wasn’t officially marked, I’m confident that my performance met the expected standards. The experience improved my comfort level in recorded interviews—a skill increasingly important for remote hiring processes.
+-**Result**: Although this section wasn’t officially marked, I’m confident that my performance met the expected standards. The experience improved my comfort level in recorded interviews—a skill increasingly important for remote hiring processes.
 
-Professional Networking
+##  Professional Networking
 <details> <summary>Evidence</summary>
 
 </details>
 
-Reflection
+**Reflection**
 
-Situation: I completed the Professional Networking exercise to build awareness of how to establish meaningful industry connections.
+-**Situation**: I completed the Professional Networking exercise to build awareness of how to establish meaningful industry connections.
 
-Task: The task was to research and create a professional online presence while identifying strategies for engaging with potential mentors and employers.
+-**Task**: The task was to research and create a professional online presence while identifying strategies for engaging with potential mentors and employers.
 
-Action: I enhanced my LinkedIn profile, connected with IT professionals, and joined relevant groups focusing on software development and cybersecurity. I reflected on the importance of maintaining an authentic and proactive digital footprint.
+-**Action**: I enhanced my LinkedIn profile, connected with IT professionals, and joined relevant groups focusing on software development and cybersecurity. I reflected on the importance of maintaining an authentic and proactive digital footprint.
 
-Result: I achieved 100/100. This process strengthened my understanding of professional networking as an essential tool for career growth and opportunity discovery.
+-**Result**: I achieved 100/100. This process strengthened my understanding of professional networking as an essential tool for career growth and opportunity discovery.
 
-Workplace Etiquette
+##  Workplace Etiquette
 <details> <summary>Evidence</summary>
 
 </details>
 
-Reflection
+**Reflection**
 
-Situation: This task focused on developing workplace professionalism, ethics, and behaviour suitable for modern IT environments.
+-**Situation**: This task focused on developing workplace professionalism, ethics, and behaviour suitable for modern IT environments.
 
-Task: I was required to demonstrate understanding of workplace conduct, communication protocols, and respect for diversity.
+-**Task**: I was required to demonstrate understanding of workplace conduct, communication protocols, and respect for diversity.
 
-Action: I reviewed workplace scenarios covering punctuality, teamwork, and communication etiquette. I also reflected on how professionalism contributes to a positive and inclusive environment.
+-**Action**: I reviewed workplace scenarios covering punctuality, teamwork, and communication etiquette. I also reflected on how professionalism contributes to a positive and inclusive environment.
 
-Result: I received 80/100. While I performed well, feedback suggested I could improve in providing more specific examples of conflict resolution and workplace adaptability. This reflection encouraged me to continue refining my soft skills alongside technical abilities.
+-**Result**: I received 80/100. While I performed well, feedback suggested I could improve in providing more specific examples of conflict resolution and workplace adaptability. This reflection encouraged me to continue refining my soft skills alongside technical abilities.
