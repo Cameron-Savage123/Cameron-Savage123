@@ -138,7 +138,8 @@
 ##  Mock Interview Video
 <details> <summary>Evidence</summary>
 
-<img width="352" height="236" alt="Ultra - Opera 2025_10_18 14_41_04" src="https://github.com/user-attachments/assets/52a4c4e6-3c45-4d30-a638-fb99ecacf852" />
+<img width="1486" height="73" alt="Ultra - Opera 2025_10_18 14_47_24" src="https://github.com/user-attachments/assets/a121f6d8-7aae-47b7-a4d4-69c4fa679380" />
+
 
 
 </details>
