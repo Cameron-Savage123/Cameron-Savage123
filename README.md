@@ -111,9 +111,9 @@
 
 -**Situation**: I completed the Business Communication component to enhance my professional writing, presentation, and digital communication skills.
 
--**Task**: The objective was to apply workplace communication principles such as tone, clarity, and structure when drafting emails, reports, and presentations.
+-**Task**: The objective was to learn about, answer questions and apply workplace communication principles such as tone, clarity, and structure when drafting emails, reports, and presentations.
 
--**Action**: I practised drafting professional emails, preparing presentation slides, and delivering short formal communications suitable for a corporate setting. I used the STAR technique to reflect on how effective communication impacts team productivity.
+-**Action**: I practised learning the importance of effective business communication. I used the STAR technique to reflect on how effective communication impacts team productivity.
 
 -**Result**: I achieved 100/100. This exercise improved my ability to express ideas concisely and professionally, preparing me to communicate effectively in future IT project environments.
 
@@ -129,9 +129,9 @@
 
 -**Situation**: In preparation for future job interviews, I participated in a mock interview training exercise to enhance my verbal and non-verbal communication.
 
--**Task**: The aim was to demonstrate interview readiness through confident presentation, structured responses, and professional behaviour.
+-**Task**: The aim was to demonstrate interview readiness through structured responses and professional behaviour.
 
--**Action**: I prepared answers using the STAR technique, researched common IT interview questions, and practised body language and tone control. Feedback from peers and facilitators helped me refine my delivery.
+-**Action**: I prepared answers using the STAR technique, researched common IT interview questions, and learnt more about the interview process as a whole.
 
 -**Result**: I scored 100/100. This experience boosted my interview confidence and equipped me with structured techniques for answering competency-based questions clearly and effectively.
 
@@ -152,7 +152,7 @@
 
 -**Action**: I used professional attire, structured my answers with the STAR method, and focused on maintaining good posture and tone throughout the recording.
 
--**Result**: Although this section wasn’t officially marked, I’m confident that my performance met the expected standards. The experience improved my comfort level in recorded interviews—a skill increasingly important for remote hiring processes.
+-**Result**: Although this section wasn’t officially marked, I’m confident that my performance met the expected standards. The experience improved my comfort level in recorded interviews.This being a skill increasingly important for remote hiring processes.
 
 ##  Professional Networking
 <details> <summary>Evidence</summary>
@@ -166,9 +166,9 @@
 
 -**Situation**: I completed the Professional Networking exercise to build awareness of how to establish meaningful industry connections.
 
--**Task**: The task was to research and create a professional online presence while identifying strategies for engaging with potential mentors and employers.
+-**Task**: The task was to research and learn more about having a professional online presence while identifying strategies for engaging with potential mentors and employers.
 
--**Action**: I enhanced my LinkedIn profile, connected with IT professionals, and joined relevant groups focusing on software development and cybersecurity. I reflected on the importance of maintaining an authentic and proactive digital footprint.
+-**Action**: I learnt more about the importance of having professional networking skills. I reflected on the importance of maintaining an authentic and proactive digital footprint.
 
 -**Result**: I achieved 100/100. This process strengthened my understanding of professional networking as an essential tool for career growth and opportunity discovery.
 
