@@ -102,6 +102,8 @@
 
 ##  Business Communication
 <details> <summary>Evidence</summary>
+  
+<img width="407" height="352" alt="Ultra - Opera 2025_10_18 14_40_24" src="https://github.com/user-attachments/assets/95b78ba7-259d-42c2-8779-8bd2c80f1e40" />
 
 </details>
 
@@ -118,6 +120,9 @@
 ##  Interview Skills
 <details> <summary>Evidence</summary>
 
+<img width="265" height="345" alt="Ultra - Opera 2025_10_18 14_40_47" src="https://github.com/user-attachments/assets/95596537-e8cd-4422-bff9-24185bfa1826" />
+
+
 </details>
 
 **Reflection**
@@ -132,6 +137,9 @@
 
 ##  Mock Interview Video
 <details> <summary>Evidence</summary>
+
+<img width="352" height="236" alt="Ultra - Opera 2025_10_18 14_41_04" src="https://github.com/user-attachments/assets/52a4c4e6-3c45-4d30-a638-fb99ecacf852" />
+
 
 </details>
 
@@ -148,6 +156,9 @@
 ##  Professional Networking
 <details> <summary>Evidence</summary>
 
+<img width="389" height="351" alt="Ultra - Opera 2025_10_18 14_41_47" src="https://github.com/user-attachments/assets/b8a5c78e-67b4-46a8-af79-4cd81f984258" />
+
+
 </details>
 
 **Reflection**
@@ -162,6 +173,9 @@
 
 ##  Workplace Etiquette
 <details> <summary>Evidence</summary>
+
+<img width="332" height="352" alt="Ultra - Opera 2025_10_18 14_41_56" src="https://github.com/user-attachments/assets/f7e18b14-8582-44b2-9d1f-391777dc8010" />
+
 
 </details>
 
