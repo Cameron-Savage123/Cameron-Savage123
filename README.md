@@ -127,11 +127,11 @@
 
 **Reflection**
 
--**Situation**: In preparation for future job interviews, I participated in a mock interview training exercise to enhance my verbal and non-verbal communication.
+-**Situation**: In preparation for future job interviews, I completed a interview training exercise to enhance my verbal and non-verbal communication.
 
--**Task**: The aim was to demonstrate interview readiness through structured responses and professional behaviour.
+-**Task**: The aim was to demonstrate interview readiness through structured responses and knowledge of the interview process.
 
--**Action**: I prepared answers using the STAR technique, researched common IT interview questions, and learnt more about the interview process as a whole.
+-**Action**: I prepared answers using the STAR technique and learnt more about the interview process as a whole.
 
 -**Result**: I scored 100/100. This experience boosted my interview confidence and equipped me with structured techniques for answering competency-based questions clearly and effectively.
 
