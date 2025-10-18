@@ -184,8 +184,8 @@
 
 -**Situation**: This task focused on developing workplace professionalism, ethics, and behaviour suitable for modern IT environments.
 
--**Task**: I was required to demonstrate understanding of workplace conduct, communication protocols, and respect for diversity.
+-**Task**: I was required to demonstrate understanding of workplace conduct and communication protocols.
 
 -**Action**: I reviewed workplace scenarios covering punctuality, teamwork, and communication etiquette. I also reflected on how professionalism contributes to a positive and inclusive environment.
 
--**Result**: I received 80/100. While I performed well, feedback suggested I could improve in providing more specific examples of conflict resolution and workplace adaptability. This reflection encouraged me to continue refining my soft skills alongside technical abilities.
+-**Result**: I received 80/100. While I performed well, I could improve my knowledge of conflict resolution and workplace adaptability. This reflection encouraged me to continue refining my soft skills alongside technical abilities.
